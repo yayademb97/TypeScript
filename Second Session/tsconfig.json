@@ -1,0 +1,16 @@
+{
+    //* Clé de base
+    "compilerOptions": {
+        //* préciser le dossier de destination
+        "outDir": "dist",
+        "target": "ES6",
+        //* Eviter qu'il converitisse du typeScript en JavaScript avec une erreur, on ajoute:
+        "noEmitOnError": true,
+        //* Activer l'option ou mode "strict": qui nous permettra d'écrire un code plus sécurisé et robuste.
+        // "strict": true
+    },
+    //* Préciser les fichiers qu'il va changer en amont grace à une propriété qui s'appelle "files"
+    "files": [
+        "src/app.ts",
+    ]
+}
