@@ -24,7 +24,7 @@ TypeScript enhances JavaScript by adding:
 1. 🍴 **Fork** the repository.
 2. 📥 **Clone** it to your local machine:
    ```bash
-   git clone https://
+   [git clone https://](https://github.com/yayademb97/TypeScript.git)
 🏃‍♂️ Run Examples and start coding:
 bash
 Copier le code
@@ -45,5 +45,3 @@ This repository is licensed under the MIT License. 📄
 
 💻 Happy Coding! ✨
 
-csharp
-Copier le code
